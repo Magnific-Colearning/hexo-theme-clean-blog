@@ -1,0 +1,48 @@
+# Header
+menu:
+  LINE 社群: https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg
+  其他文章: /archives
+  擴增集所得智:
+    url: https://act.magnific.biz
+  永續所得實驗室:
+    url: https://sustainable-income-lab.github.io/
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: 格物致知
+
+# URL of the Home page image
+index_cover: img/home-bg.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid: 889041678546834
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Google Tag Manager ID
+google_tag_manager: GTM-5V3NX53
+
+# Addthis ID
+addthis: ra-60487d6fd19c4803
+
+# set your own favicon
+favicon:
+
+# Social Accounts
+twitter_url:
+twitter_handle:
+facebook_url:
+github_url: https://github.com/Huanry-Magnific/co-learning
+gitlab_url:
+linkedin_url:
+mailto: huanry.magnific@gmail.com
